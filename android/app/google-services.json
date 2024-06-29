@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485671429839",
+    "project_id": "handy-helper-be648",
+    "storage_bucket": "handy-helper-be648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485671429839:android:52a9dbac29cc7354f7b9ba",
+        "android_client_info": {
+          "package_name": "com.example.handy_helper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFBk8ZN39E8Q8EfkRDgT_WnkUPack0Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485671429839:android:33c36deaa351f40cf7b9ba",
+        "android_client_info": {
+          "package_name": "com.example.handy_helper_main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFBk8ZN39E8Q8EfkRDgT_WnkUPack0Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
